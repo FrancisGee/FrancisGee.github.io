@@ -1,11 +1,11 @@
 # Basic
 title: FrancisGeek
-subtitle: 心灵之窗
-description: 书写生活，充实自我
+subtitle: 灵魂机器
+description: 如果要飞得高，就该把地平线忘掉。
 # 头像里面的标题
 avatarTitle: 高轶康
 # 头像里面的描述
-avatarDesc: 计算机视觉 / 机器学习
+avatarDesc: 计算机视觉/机器学习
 url: "http://www.yikanggao.com"
 
 # Comment
@@ -18,12 +18,12 @@ comment:
 
 # Social
 social:
-    weibo: 2344041987
-    github: dearLilian
+    weibo: 2968686817
+    github: FrancisGee
     #gsite: liliandreamworld
-    csdn: lilianforever
+    csdn: u012280578
     # twitter: 
-    mail: liwenbao930116@gmail.com
+    mail: gaoyikang2014@foxmail.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -33,7 +33,7 @@ baidu:
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: UA-88738012-1   
+    id: UA-86519148-1  
     host: auto  
 
 
