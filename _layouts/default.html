@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html>
 
+  <head>
+	<!-- Add  404 页面-->
+	{% if page.url == "/404.html" %}
+		<meta http-equiv="refresh" content="5; url=/">
+	{% endif %}
+  </head>
+
   {% include head.html %}
 
 
