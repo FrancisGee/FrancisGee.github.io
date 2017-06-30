@@ -5,7 +5,7 @@ header: 根据快速导航到相应的文章
 group: navigation
 ---
 
-<p>来留下你的足迹吧。留言让我们的距离更近哦。</p>
+<p>前10名留言的访客留下支付宝帐号，随机发放红包。</p>
 
 <section>
 <!-- 多说评论框 start -->
@@ -19,9 +19,11 @@ var duoshuoQuery = {short_name:"lilian"};
     ds.type = 'text/javascript';ds.async = true;
     ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
     ds.charset = 'UTF-8';
-    (document.getElementsByTagName('head')[0] 
+    (document.getElementsByTagName('head')[0]
      || document.getElementsByTagName('body')[0]).appendChild(ds);
   })();
   </script>
 <!-- 多说公共JS代码 end -->
 </section>
+
+{% include comments.html %}
