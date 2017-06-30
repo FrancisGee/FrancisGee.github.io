@@ -10,8 +10,8 @@ url: "http://www.yikanggao.com"
 
 # Comment
 comment:
-    # disqus: lilian
-     duoshuo: lilian
+    disqus: FrancisGee
+    # duoshuo: lilian
     #gitment: lilian
           #id: 581bd96523e3f5c2eff6
           #secret: 6ae18be198d13f2a5d023c71effddddfd48b107a
