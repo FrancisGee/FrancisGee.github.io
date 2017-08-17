@@ -119,6 +119,8 @@ Anaconda的好处在前面的博客中已经提到过了，不过这里还是有
 
 另外官网上说的，训练上述网络需要大约30min的时间，我用**装好的gpu的tensorflow运行只用了10min**，确实算力有很大提升．
 
+但是这个并没有达到手写数字识别(MNIST)的目前最高准确率，[目前最高的准确率为99.79%](https://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#4d4e495354).
+
 ## 总结
 
 配环境肯定是以**官网**为主，但是每个人的电脑以及系统千差万别，所以要查阅资料，解决问题．
@@ -160,6 +162,7 @@ Tensorflow: https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1
 + [安装Anaconda问题解决](https://askubuntu.com/questions/843253/running-simple-bash-script-fails-with-syntax-error-word-unexpected-expecting)
 + [tensorflow官网指导安装Ubuntu环境](https://www.tensorflow.org/install/install_linux)
 + [cudnn无法调用问题解决](https://github.com/tensorflow/tensorflow/issues/7522)
++ [MNIST数据集排行榜](https://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#4d4e495354)
 
 
 
