@@ -9,6 +9,7 @@ group: navigation
 ## 课程学习
 
 -[CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
+
 -[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 
 
@@ -31,10 +32,8 @@ group: navigation
 - [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/) -The Founder of Deep learning's Homepage
 - [Yann LeCun](http://yann.lecun.com) -The leader of Facebook AI lab
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) -The leader of CIFAR
-- [Andrew Ng](http://www.andrewng.org) -Chief Scientist of Baidu Brain
-
+- [Andrew Ng](http://www.andrewng.org) 
 - [Chip Huyen-List100](https://huyenchip.com/list-100/)
-
 - [Blog-Yong Yuan](http://yongyuan.name/blog/)
 - [王辉的博客--更新比较频繁](http://hui-wang.info/)
 - [王垠](http://www.yinwang.org/)
