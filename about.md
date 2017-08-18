@@ -15,19 +15,13 @@ group: navigation
 
 - 兴趣：电影、算法、投资、健身、区块链
 
-### 更多信息
+### 为什么要写博客
 
-<p>
-本博客模板基于lilian.info，有兴趣者请参考该博客（来自http://baixin.io/#blog） 
-<a href="http://baixin.io/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a></p>
-<p>
-同时在原来模板基础上有部分修改与内容的添加（打赏，一键分享，留言板）以及一些背景格式等的设置。后续还会有更多内容。</p>。
-
-本博客源码在我的github，如有需要，请赏一个star，非常感谢。
+训练自己好好说话，并且记录学习脚印，同时分享知识。
 
 ### 联系我
 
-如有小伙伴们参考我的模板有些许问题，可以email(gaiyikang2014@foxmail.com)给我。评论区的话可能回复不及时。且大家后面也不方便看到。
+Email: gaoyikang2014#foxmail.com(把#改为@)
 
 
 ### 博客更新情况

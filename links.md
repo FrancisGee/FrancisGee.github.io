@@ -5,6 +5,13 @@ header: 根据快速导航到相应的文章
 group: navigation
 ---
 
+
+## 课程学习
+
+-[CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
+-[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+
+
 ## 每日必看
 
 - [arXiv-CV](https://arxiv.org/list/cs.CV/recent)
@@ -18,12 +25,20 @@ group: navigation
 - [结构化你的工程](http://pythonguidecn.readthedocs.io/zh/latest/writing/structure.html)
 
 
-## Blogs
+## 博客
 - [何凯明-FAIR](http://kaiminghe.com/)
+- [田渊栋-FAIR](http://yuandong-tian.com/)
 - [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/) -The Founder of Deep learning's Homepage
 - [Yann LeCun](http://yann.lecun.com) -The leader of Facebook AI lab
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) -The leader of CIFAR
 - [Andrew Ng](http://www.andrewng.org) -Chief Scientist of Baidu Brain
+
+- [Chip Huyen-List100](https://huyenchip.com/list-100/)
+
+- [Blog-Yong Yuan](http://yongyuan.name/blog/)
+- [王辉的博客--更新比较频繁](http://hui-wang.info/)
+- [王垠](http://www.yinwang.org/)
+- [阮一峰](http://www.ruanyifeng.com/blog/)
 
 
 
@@ -49,8 +64,11 @@ group: navigation
 - [Json在线编辑](http://www.kjson.com/jsoneditor/)
 
 
+
 ## 常用库和框架
 
+- [tensorflow](https://www.tensorflow.org/)
+- [keras](https://keras.io/)
 - [sk-learn](http://scikit-learn.org/stable/)
 - [numpy](http://www.numpy.org/)
 - [pandas](http://pandas.pydata.org/)
@@ -74,14 +92,12 @@ group: navigation
 
 ## 友情链接
 
-- [王辉的博客--更新比较频繁](http://hui-wang.info/)
-- [王垠大神](http://www.yinwang.org/)
-- [阮一峰](http://www.ruanyifeng.com/blog/)
+
 - [某位值得关注ACM玩家](http://www.ctzsm.com/about-me/)
 - [值得学习的前辈-Backyard of LixinZhang](http://lixinzhang.github.io/)
 - [SO上值得学习的大牛](http://stackexchange.com/users/8372/claudiu?tab=accounts)
-- [深度学习入门-colah's blog](http://colah.github.io/)
-- [TF入门博客](http://www.tensorfly.cn/home/)
+
+
 
 ## Papers
 - [CVPR/ICCV](http://www.cv-foundation.org/openaccess/menu.py)

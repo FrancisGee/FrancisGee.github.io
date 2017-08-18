@@ -3,7 +3,7 @@
 layout: post
 title: Linux配置tensorflow环境(GPU版)
 date: 2017-08-15
-tag: [tool]
+tag: [configuration]
 
 ---
 

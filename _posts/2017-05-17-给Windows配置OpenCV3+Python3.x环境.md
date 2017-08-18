@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 给电脑配置OpenCV3.X+Python3.x环境
+title: Windows配置OpenCV3.X+Python3.x环境
 date: 2017-05-17
 tag: [tool]
 
@@ -54,8 +54,7 @@ tag: [tool]
 + [OpenCV Release](http://opencv.org/releases.html)
 
 
-## 彩蛋
-后期补上在Ubuntu下Python配OpenCV的玩法。
+
 
 
 
