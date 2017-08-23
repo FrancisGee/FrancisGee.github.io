@@ -45,7 +45,7 @@ group: navigation
 
 - [CVPR/ICCV](http://www.cv-foundation.org/openaccess/menu.py)
 - [ECCV](http://www.eccv2016.org/)
-- [arXiv](https://arxiv.org/corr/home
+- [arXiv](https://arxiv.org/corr/home)
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)
 
@@ -57,7 +57,7 @@ group: navigation
 - [王辉的博客--更新比较频繁](http://hui-wang.info/)
 - [王垠](http://www.yinwang.org/)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
-　-[董的博客](http://dongxicheng.org/)
+- [董的博客](http://dongxicheng.org/)
 
 
 ## 一些工具
