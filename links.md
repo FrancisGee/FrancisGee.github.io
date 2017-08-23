@@ -8,9 +8,10 @@ group: navigation
 
 ## 课程学习
 
--[CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
-
--[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+- [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+- [Cryptocurrency](https://www.coursera.org/learn/cryptocurrency)
+- [Algorithms](https://www.coursera.org/learn/algorithms-part1/home/welcome)
 
 
 ## 每日必看
@@ -26,29 +27,37 @@ group: navigation
 - [结构化你的工程](http://pythonguidecn.readthedocs.io/zh/latest/writing/structure.html)
 
 
-## 博客
+## 科研动态
+
+- [Google Research Blog](https://research.googleblog.com/search/label/TensorFlow)
 - [何凯明-FAIR](http://kaiminghe.com/)
 - [田渊栋-FAIR](http://yuandong-tian.com/)
 - [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/) -The Founder of Deep learning's Homepage
-- [Yann LeCun](http://yann.lecun.com) -The leader of Facebook AI lab
+- [Stanford CV Lab](http://vision.stanford.edu)
+- [MSRA Visual Computing Lab](https://www.microsoft.com/en-us/research/group/visual-computing/)
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) -The leader of CIFAR
 - [Andrew Ng](http://www.andrewng.org) 
+- [何宜晖](http://yihui-he.github.io/)
+
+
+
+## 论文
+
+- [CVPR/ICCV](http://www.cv-foundation.org/openaccess/menu.py)
+- [ECCV](http://www.eccv2016.org/)
+- [arXiv](https://arxiv.org/corr/home
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+- [Deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)
+
+
+## 博客
+
 - [Chip Huyen-List100](https://huyenchip.com/list-100/)
 - [Blog-Yong Yuan](http://yongyuan.name/blog/)
 - [王辉的博客--更新比较频繁](http://hui-wang.info/)
 - [王垠](http://www.yinwang.org/)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
-
-
-
-## Machine-Learning and Deep-Learning lab
-- [香港中文大学多媒体实验室 ](http://mmlab.ie.cuhk.edu.hk/index_cn.html)
-- [Facebook AI Lab](https://research.facebook.com/ai/)
-- [MIT CS and AI Lab](https://www.csail.mit.edu)
-- [Stanford AI Lab](http://ai.stanford.edu)
-- [Stanford CV Lab](http://vision.stanford.edu)
-- [Berkeley AI Lab](http://bair.berkeley.edu)
-- [MSRA Visual Computing Lab](https://www.microsoft.com/en-us/research/group/visual-computing/)
+　-[董的博客](http://dongxicheng.org/)
 
 
 ## 一些工具
@@ -63,7 +72,6 @@ group: navigation
 - [Json在线编辑](http://www.kjson.com/jsoneditor/)
 
 
-
 ## 常用库和框架
 
 - [tensorflow](https://www.tensorflow.org/)
@@ -76,6 +84,7 @@ group: navigation
 - [Django Documentation](https://docs.djangoproject.com/en/1.10/) -Official Documentation for Django
 - [Django 1.8.2中文文档](http://python.usyiyi.cn/django/index.html)
 - [Dlib C++ Library](http://dlib.net/) -Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. 
+- [socketIO](https://python-socketio.readthedocs.io/en/latest/)
 
 
 ## 深度学习云服务器探索
@@ -86,6 +95,7 @@ group: navigation
 - [阿里-PAI](https://data.aliyun.com/product/learn?spm=5176.8252056.388261.272.FpNIAJ)
 - [虫数据--免费GPU主机GTX1080申请](http://chongdata.com/articles/?p=308)
 - [使用亚马逊EC2做深度学习](http://www.cnblogs.com/meelo/p/5994505.html)
+- [AWS Tutorial](http://cs231n.github.io/aws-tutorial/)
 
 
 
@@ -95,13 +105,7 @@ group: navigation
 - [某位值得关注ACM玩家](http://www.ctzsm.com/about-me/)
 - [值得学习的前辈-Backyard of LixinZhang](http://lixinzhang.github.io/)
 - [SO上值得学习的大牛](http://stackexchange.com/users/8372/claudiu?tab=accounts)
-
-
-
-## Papers
-- [CVPR/ICCV](http://www.cv-foundation.org/openaccess/menu.py)
-- [ECCV](http://www.eccv2016.org/)
-- [arXiv](https://arxiv.org/corr/home)
+- [Shunshun](http://yangshun.win/)
 
 
 
@@ -112,13 +116,5 @@ group: navigation
 - [Deep Learning 网页中文版](https://exacity.github.io/deeplearningbook-chinese/)
 
 
-## 其他
-
-- <a href="https://github.com/grahamjenson/list_of_recommender_systems">推荐系统的一些资源列表</a>
-- <a href="https://github.com/NicolasHug/Surprise">推荐系统算法python库Surprise</a>
-- <a href="http://www.librec.net/datasets.html">推荐系统常用数据集</a>
-- <a href="http://www.ctan.org/tex-archive/support/excel2latex">excel表格转latex代码的工具</a>
-- <a href="http://smiles.xjtu.edu.cn/Download/Download.html">SMILEE LAB的数据集列表：豆瓣数据集，多媒体数据集等</a>
-- <a href="https://github.com/tangjianpku/LINE">Information Network Embedding</a>
 
 
