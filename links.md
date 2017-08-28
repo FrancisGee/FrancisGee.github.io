@@ -38,6 +38,9 @@ group: navigation
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) -The leader of CIFAR
 - [Andrew Ng](http://www.andrewng.org) 
 - [何宜晖](http://yihui-he.github.io/)
+- [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
+- [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx)
+
 
 
 
