@@ -40,7 +40,7 @@ group: navigation
 - [何宜晖](http://yihui-he.github.io/)
 - [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
 - [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx)
-
+- [Ian Goodfellow](http://www.iangoodfellow.com/)
 
 
 
