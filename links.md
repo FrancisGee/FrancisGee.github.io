@@ -14,33 +14,22 @@ group: navigation
 - [Algorithms](https://www.coursera.org/learn/algorithms-part1/home/welcome)
 
 
-## 每日必看
-
-- [arXiv-CV](https://arxiv.org/list/cs.CV/recent)
-- [Marcos Nieto's Blog--项目相关](https://marcosnietoblog.wordpress.com/2016/07/27/real-time-vehicle-detection-and-lane-detection-for-adas/)
-- [Learn to Code by Competitive Programming](http://blog.hackerearth.com/2013/09/competitive-programming-getting-started_11.html)
-- [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
-- [机器之心](http://www.jiqizhixin.com/)
-- [泡泡机器人](http://www.slamcn.org/index.php/%E9%A6%96%E9%A1%B5)
-- [机器学习之特征工程](http://www.csuldw.com/2015/10/24/2015-10-24%20feature%20engineering/)
-- [Debug的基本步骤](http://www.jiuzhang.com/qa/3815/)
-- [结构化你的工程](http://pythonguidecn.readthedocs.io/zh/latest/writing/structure.html)
-
-
 ## 科研动态
 
 - [Google Research Blog](https://research.googleblog.com/search/label/TensorFlow)
+- [Autonomous Vision Group](http://www.cvlibs.net/)
+- [Stanford CV Lab](http://vision.stanford.edu)
+- [MSRA Visual Computing Lab](https://www.microsoft.com/en-us/research/group/visual-computing/)
+- [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx)
 - [何凯明-FAIR](http://kaiminghe.com/)
 - [田渊栋-FAIR](http://yuandong-tian.com/)
 - [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/) -The Founder of Deep learning's Homepage
-- [Stanford CV Lab](http://vision.stanford.edu)
-- [MSRA Visual Computing Lab](https://www.microsoft.com/en-us/research/group/visual-computing/)
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) -The leader of CIFAR
 - [Andrew Ng](http://www.andrewng.org) 
 - [何宜晖](http://yihui-he.github.io/)
 - [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
-- [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx)
 - [Ian Goodfellow](http://www.iangoodfellow.com/)
+
 
 
 
@@ -52,6 +41,19 @@ group: navigation
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)
 
+
+
+## 每日必看
+
+- [arXiv-CV](https://arxiv.org/list/cs.CV/recent)
+- [Marcos Nieto's Blog--项目相关](https://marcosnietoblog.wordpress.com/2016/07/27/real-time-vehicle-detection-and-lane-detection-for-adas/)
+- [Learn to Code by Competitive Programming](http://blog.hackerearth.com/2013/09/competitive-programming-getting-started_11.html)
+- [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
+- [机器之心](http://www.jiqizhixin.com/)
+- [泡泡机器人](http://www.slamcn.org/index.php/%E9%A6%96%E9%A1%B5)
+- [机器学习之特征工程](http://www.csuldw.com/2015/10/24/2015-10-24%20feature%20engineering/)
+- [Debug的基本步骤](http://www.jiuzhang.com/qa/3815/)
+- [结构化你的工程](http://pythonguidecn.readthedocs.io/zh/latest/writing/structure.html)
 
 ## 博客
 
