@@ -13,7 +13,7 @@ group: navigation
 
 - 学术兴趣: 语义分割，目标检测，深度学习模型压缩，高性能运算
 
-- 语言：java,c++, python, matlab
+- 语言：java,python,c++,matlab
 
 - 兴趣：投资、健身、算法、电影
 
