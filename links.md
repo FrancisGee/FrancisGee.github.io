@@ -16,6 +16,7 @@ group: navigation
 
 ## 科研动态
 
+- [reddit/ML](https://www.reddit.com/r/MachineLearning/)
 - [Google Research Blog](https://research.googleblog.com/search/label/TensorFlow)
 - [Autonomous Vision Group](http://www.cvlibs.net/)
 - [Stanford CV Lab](http://vision.stanford.edu)
