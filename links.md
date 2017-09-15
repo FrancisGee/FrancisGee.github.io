@@ -18,18 +18,31 @@ group: navigation
 
 - [reddit/ML](https://www.reddit.com/r/MachineLearning/)
 - [Google Research Blog](https://research.googleblog.com/search/label/TensorFlow)
+- [Google Brain Team](https://research.google.com/teams/brain/)
 - [Autonomous Vision Group](http://www.cvlibs.net/)
 - [Stanford CV Lab](http://vision.stanford.edu)
 - [MSRA Visual Computing Lab](https://www.microsoft.com/en-us/research/group/visual-computing/)
 - [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx)
 - [何凯明-FAIR](http://kaiminghe.com/)
 - [田渊栋-FAIR](http://yuandong-tian.com/)
+- [何宜晖](http://yihui-he.github.io/)
 - [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/) -The Founder of Deep learning's Homepage
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) -The leader of CIFAR
 - [Andrew Ng](http://www.andrewng.org) 
-- [何宜晖](http://yihui-he.github.io/)
 - [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
 - [Ian Goodfellow](http://www.iangoodfellow.com/)
+- [Adam Harley](http://www.cs.cmu.edu/~aharley/)
+
+
+## 博客
+
+- [Denny Britz --- 超级厉害的大神](http://www.wildml.com/about/)
+- [Chip Huyen-List100](https://huyenchip.com/list-100/)
+- [Blog-Yong Yuan](http://yongyuan.name/blog/)
+- [王辉的博客--更新比较频繁](http://hui-wang.info/)
+- [王垠](http://www.yinwang.org/)
+- [阮一峰](http://www.ruanyifeng.com/blog/)
+- [董的博客](http://dongxicheng.org/)
 
 
 
@@ -56,14 +69,19 @@ group: navigation
 - [Debug的基本步骤](http://www.jiuzhang.com/qa/3815/)
 - [结构化你的工程](http://pythonguidecn.readthedocs.io/zh/latest/writing/structure.html)
 
-## 博客
 
-- [Chip Huyen-List100](https://huyenchip.com/list-100/)
-- [Blog-Yong Yuan](http://yongyuan.name/blog/)
-- [王辉的博客--更新比较频繁](http://hui-wang.info/)
-- [王垠](http://www.yinwang.org/)
-- [阮一峰](http://www.ruanyifeng.com/blog/)
-- [董的博客](http://dongxicheng.org/)
+## 深度学习云服务器探索
+- [NVIDIA GPU运算能力列表](http://blog.csdn.net/real_myth/article/details/44308169)
+- [为你的深度学习任务挑选性价比最高GPU](https://www.jiqizhixin.com/articles/753219c6-428d-4432-be93-06911dc9c98f)
+- [为你的深度学习任务挑选最合适的GPU](https://www.jiqizhixin.com/articles/4d67137c-b3e8-44c7-9dd9-b1fe8adc7a71)
+- [GPU集群折腾手记](http://mli.github.io/gpu/2016/01/17/build-gpu-clusters/)
+- [阿里-PAI](https://data.aliyun.com/product/learn?spm=5176.8252056.388261.272.FpNIAJ)
+- [虫数据--免费GPU主机GTX1080申请](http://chongdata.com/articles/?p=308)
+- [使用亚马逊EC2做深度学习](http://www.cnblogs.com/meelo/p/5994505.html)
+- [AWS Tutorial](http://cs231n.github.io/aws-tutorial/)
+- [Google Cloud Tutorial](http://cs231n.github.io/gce-tutorial-gpus/)
+
+
 
 
 ## 一些工具
@@ -91,18 +109,6 @@ group: navigation
 - [Django 1.8.2中文文档](http://python.usyiyi.cn/django/index.html)
 - [Dlib C++ Library](http://dlib.net/) -Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. 
 - [socketIO](https://python-socketio.readthedocs.io/en/latest/)
-
-
-## 深度学习云服务器探索
-- [NVIDIA GPU运算能力列表](http://blog.csdn.net/real_myth/article/details/44308169)
-- [为你的深度学习任务挑选性价比最高GPU](https://www.jiqizhixin.com/articles/753219c6-428d-4432-be93-06911dc9c98f)
-- [为你的深度学习任务挑选最合适的GPU](https://www.jiqizhixin.com/articles/4d67137c-b3e8-44c7-9dd9-b1fe8adc7a71)
-- [GPU集群折腾手记](http://mli.github.io/gpu/2016/01/17/build-gpu-clusters/)
-- [阿里-PAI](https://data.aliyun.com/product/learn?spm=5176.8252056.388261.272.FpNIAJ)
-- [虫数据--免费GPU主机GTX1080申请](http://chongdata.com/articles/?p=308)
-- [使用亚马逊EC2做深度学习](http://www.cnblogs.com/meelo/p/5994505.html)
-- [AWS Tutorial](http://cs231n.github.io/aws-tutorial/)
-
 
 
 ## 友情链接
