@@ -9,13 +9,12 @@ group: navigation
 
 ### 简介
 
-- 领域：计算机视觉，机器学习，深度学习，区块链技术
 
-- 学术兴趣: 语义分割，目标检测，深度学习模型压缩，高性能运算
+  *FrancisGeek is a MS in BUPT.His research interest is vision based  autonomous driving system, learning universal representation for image segmention.*
 
-- 语言：java,python,c++,matlab
+- **Research Areas**: Computer Vison ，Machine Learning, Deep Learning，Image Segmention, Autonomous Driving, Blockchain.
 
-- 兴趣：投资、健身、算法、电影
+- **Interests**: Inverstment、Gym 、Programming、Movies、Anything cool
 
 ### 为什么要写博客
 
@@ -25,7 +24,7 @@ group: navigation
 
 Email: gaoyikang2014#foxmail.com(把#改为@)
 
-*其他联系渠道暂不开放*。
+*No other contact information*。
 
 
 ### 博客更新情况
@@ -39,6 +38,7 @@ Email: gaoyikang2014#foxmail.com(把#改为@)
 - 2017.08.16, 开始关注区块链
 - 2017.09.01, **本博客不接受任何形式的商业广告，维护其纯洁性**。
 - 2017.09.02, *不定期分享区块链知识*
+- 2017.09.28, *个人主页即将升级为英文版，敬请期待*
 
 **预告**：*博客数量到达50篇后，开发站内搜索功能，敬请期待*
 

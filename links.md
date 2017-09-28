@@ -16,27 +16,37 @@ group: navigation
 
 ## 科研动态
 
-- [reddit/ML](https://www.reddit.com/r/MachineLearning/)
-- [Google Research Blog](https://research.googleblog.com/search/label/TensorFlow)
-- [Google Brain Team](https://research.google.com/teams/brain/)
-- [Autonomous Vision Group](http://www.cvlibs.net/)
-- [Stanford CV Lab](http://vision.stanford.edu)
-- [MSRA Visual Computing Lab](https://www.microsoft.com/en-us/research/group/visual-computing/)
-- [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx)
-- [何凯明-FAIR](http://kaiminghe.com/)
-- [田渊栋-FAIR](http://yuandong-tian.com/)
-- [何宜晖](http://yihui-he.github.io/)
-- [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/) -The Founder of Deep learning's Homepage
-- [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) -The leader of CIFAR
-- [Andrew Ng](http://www.andrewng.org) 
-- [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
-- [Ian Goodfellow](http://www.iangoodfellow.com/)
-- [Adam Harley](http://www.cs.cmu.edu/~aharley/)
+### 新闻
+
+- [reddit/ML](https://www.reddit.com/r/MachineLearning/)　
+- [Google Research Blog](https://research.googleblog.com/search/label/TensorFlow)　--*Tensorflow研究动态*
+
+### Pioneeer
+
+- [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)　 --*中流砥柱*
+- [Ian Goodfellow](http://www.iangoodfellow.com/)　--*中流砥柱*
+- [Adam Harley](http://www.cs.cmu.edu/~aharley/)　--*中流砥柱*
+- [何凯明-FAIR](http://kaiminghe.com/)--*中流砥柱*
+- [Fisher Yu](http://www.yf.io/) --*青年才俊*
+- [田渊栋-FAIR](http://yuandong-tian.com/)　--*青年才俊*
+- [何宜晖](http://yihui-he.github.io/)--*青年才俊*
+- [Denny Britz](http://www.wildml.com/about/)　--*青年才俊*
+- [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/)　--*业界大佬*
+- [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) ---*业界大佬*
+- [Andrew Ng](http://www.andrewng.org) --*业界大佬*
 
 
-## 博客
+### 关注的实验室
+- [Google Brain Team](https://research.google.com/teams/brain/)　--*Top实验室*
+- [Autonomous Vision Group](http://www.cvlibs.net/)　--*Top实验室*
+- [Stanford CV Lab](http://vision.stanford.edu)　--*Top实验室*
+- [MSRA Visual Computing Lab](https://www.microsoft.com/en-us/research/group/visual-computing/)--*Top实验室*
+- [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx)　--*Top实验室*
 
-- [Denny Britz --- 超级厉害的大神](http://www.wildml.com/about/)
+
+## 博客(for fun)
+
+
 - [Chip Huyen-List100](https://huyenchip.com/list-100/)
 - [Blog-Yong Yuan](http://yongyuan.name/blog/)
 - [王辉的博客--更新比较频繁](http://hui-wang.info/)
