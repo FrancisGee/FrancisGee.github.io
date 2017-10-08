@@ -9,6 +9,7 @@ group: navigation
 ## 课程学习
 
 - [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
+- [CS 229](http://cs229.stanford.edu/syllabus.html)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 - [Cryptocurrency](https://www.coursera.org/learn/cryptocurrency)
 - [Algorithms](https://www.coursera.org/learn/algorithms-part1/home/welcome)
@@ -44,9 +45,36 @@ group: navigation
 - [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx)　--*Top实验室*
 
 
+## 区块链资讯
+
+- [Bitcoin Magazine](https://bitcoinmagazine.com/)
+- [CoinDesk](https://www.coindesk.com/)
+- [Bitcoin Forum](https://bitcointalk.org/)
+- [巴比特](http://www.8btc.com/)
+- [ethfans](http://ethfans.org/)
+
+## 区块链查询
+
+- [Cryptocurrency Market Capitalizations](https://coinmarketcap.com/)
+- [比特币区块链查询](https://blockchain.info/)
+- [以太坊区块链查询](https://etherscan.io/)
+
+## 看好的区块链应用
+
+- [Bitcoin](https://bitcoin.org/en/)
+- [Ethereum](https://ethereum.org/)
+- [Etherdelta](https://etherdelta.com/)
+- [ShapeShift](https://zh.shapeshift.io/#/coins)
+- [Blockstack](https://blockstack.org/)
+- [Go Ethereum](https://geth.ethereum.org/)
+- [MyEtherWallet](https://www.myetherwallet.com/)
+- [MetaMask](https://metamask.io)
+- [Keybase](https://keybase.io/)
+
+
 ## 博客(for fun)
 
-
+- [V神](https://about.me/vitalik_buterin)
 - [Chip Huyen-List100](https://huyenchip.com/list-100/)
 - [Blog-Yong Yuan](http://yongyuan.name/blog/)
 - [王辉的博客--更新比较频繁](http://hui-wang.info/)
@@ -132,6 +160,8 @@ group: navigation
 
 
 ## Books
+
+- [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/)
 - [鸟哥的Linux私房菜](http://cn.linux.vbird.org/) - 在线简体中文版，包括基础篇和服务器篇
 - [算法](http://algs4.cs.princeton.edu/home/) ----大师的经典算法书籍在线版
 - [K&R C程序设计答案参考](http://clc-wiki.net/wiki/K%26R2_solutions)
