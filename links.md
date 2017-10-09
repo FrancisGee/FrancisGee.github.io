@@ -150,8 +150,9 @@ group: navigation
 
 ## 常用库和框架
 
-- [tensorflow](https://www.tensorflow.org/)
 - [keras](https://keras.io/)
+- [tensorflow](https://www.tensorflow.org/)
+- [Pytorch](http://pytorch.org/)
 - [sk-learn](http://scikit-learn.org/stable/)
 - [numpy](http://www.numpy.org/)
 - [pandas](http://pandas.pydata.org/)
