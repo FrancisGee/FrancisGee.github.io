@@ -21,6 +21,7 @@ group: navigation
 
 - [reddit/ML](https://www.reddit.com/r/MachineLearning/)　
 - [Google Research Blog](https://research.googleblog.com/search/label/TensorFlow)　--*Tensorflow研究动态*
+- [OpenAI](https://openai.com/research/#releases)
 
 ### Pioneeer
 
