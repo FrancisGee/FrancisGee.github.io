@@ -1,7 +1,7 @@
 # Basic
 title: FrancisGeek
 subtitle: 灵魂机器
-description: 博客，程序员的第四浪漫。
+description: 未来已到，只是尚未流行。
 # 头像里面的标题
 avatarTitle: 高轶康
 # 头像里面的描述
@@ -82,6 +82,7 @@ nav:
     - {title: 分类, description: tags, url: '/tags'}
     - {title: 留言, description: messages, url: '/messages'}
     - {title: 资源, description: links, url: '/links'}      
+    - {title: 区块链, description: blockchain, url: '/blockchain'}
     - {title: 关于, description: about, url: '/about'}      
     
 
