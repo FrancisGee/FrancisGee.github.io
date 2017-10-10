@@ -46,34 +46,6 @@ group: navigation
 - [LAMDA](http://lamda.nju.edu.cn/CH.MainPage.ashx)　--*Top实验室*
 
 
-## 区块链资讯
-
-- [Bitcoin Magazine](https://bitcoinmagazine.com/)
-- [CoinDesk](https://www.coindesk.com/)
-- [Bitcoin Forum](https://bitcointalk.org/)
-- [巴比特](http://www.8btc.com/)
-- [ethfans](http://ethfans.org/)
-
-## 区块链查询
-
-- [Cryptocurrency Market Capitalizations](https://coinmarketcap.com/)
-- [比特币区块链查询](https://blockchain.info/)
-- [以太坊区块链查询](https://etherscan.io/)
-- [DApp查询](https://www.stateofthedapps.com/)
-
-## 看好的区块链应用
-
-- [Bitcoin](https://bitcoin.org/en/)
-- [Ethereum](https://ethereum.org/)
-- [Etherdelta](https://etherdelta.com/)
-- [ShapeShift](https://zh.shapeshift.io/#/coins)
-- [Blockstack](https://blockstack.org/)
-- [Go Ethereum](https://geth.ethereum.org/)
-- [MyEtherWallet](https://www.myetherwallet.com/)
-- [MetaMask](https://metamask.io)
-- [Keybase](https://keybase.io/)
-
-
 ## 博客(for fun)
 
 - [Hacker News](https://news.ycombinator.com/newest)
@@ -86,8 +58,6 @@ group: navigation
 - [王垠](http://www.yinwang.org/)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [董的博客](http://dongxicheng.org/)
-
-
 
 
 ## 论文 && 会议
