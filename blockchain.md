@@ -18,6 +18,7 @@ group: navigation
 - [Cryptocurrency Market Capitalizations](https://coinmarketcap.com/)
 - [比特币区块链查询](https://blockchain.info/)
 - [以太坊区块链查询](https://etherscan.io/)
+- [实时查看Gas信息](http://ethgasstation.info/index.php)
 - [DApp查询](https://www.stateofthedapps.com/)
 
 ## 看好的区块链应用
@@ -31,5 +32,6 @@ group: navigation
 - [MyEtherWallet](https://www.myetherwallet.com/)
 - [MetaMask](https://metamask.io)
 - [Keybase](https://keybase.io/)
+- [steemit](https://steemit.com)
 
 
