@@ -165,6 +165,12 @@ export PYTHONPATH=/home/gaoyikang/caffe/python:$PYTHONPATH
 ```
 
 
+
+## 疑难杂症
+1. Caffe编译出错, **pyconfig.h: No such file or directory**
+   解决方案: 安装python-dev等依赖, **sudo apt-get install python-dev libxml2-dev libxslt-dev**
+
+
 ## 总结     
 
 还是按照官网安装，之所以困难还是有些东西没搞清楚，不可以盲目参考别人的教程，要结合教程分析自己的问题..
@@ -178,6 +184,7 @@ export PYTHONPATH=/home/gaoyikang/caffe/python:$PYTHONPATH
 + [Caffe安装官方教程](http://caffe.berkeleyvision.org/install_apt.html)
 + [Caffe依赖库安装](http://blog.csdn.net/yhaolpz/article/details/71375762)
 + [修改Makefile文件参考](http://blog.csdn.net/yhaolpz/article/details/71375762)
++ [pyconfig.h问题解决参考](https://github.com/okfn/piati/issues/65)
 
 
 

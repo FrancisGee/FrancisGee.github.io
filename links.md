@@ -112,10 +112,10 @@ group: navigation
 - [在线正则表达式匹配工具](https://regex101.com/) --支持语言php/javascript/python/golang
 - [Python在线正则表达式匹配工具](http://pythex.org/)
 - [Chrome开发者工具介绍](https://segmentfault.com/a/1190000000683599)
-- [Json在线编辑](http://www.kjson.com/jsoneditor/)
 - [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)
 - [The Online Books Page](http://onlinebooks.library.upenn.edu/lists.html)
 - [ebay](https://www.ebay.com/)
+
 
 
 ## 常用库和框架
@@ -123,6 +123,7 @@ group: navigation
 - [keras](https://keras.io/)
 - [tensorflow](https://www.tensorflow.org/)
 - [Pytorch](http://pytorch.org/)
+- [TensorBoard](https://github.com/tensorflow/tensorflow/blob/r1.2/tensorflow/tensorboard/README.md#key-concepts)
 - [sk-learn](http://scikit-learn.org/stable/)
 - [numpy](http://www.numpy.org/)
 - [pandas](http://pandas.pydata.org/)
@@ -132,6 +133,7 @@ group: navigation
 - [Django 1.8.2中文文档](http://python.usyiyi.cn/django/index.html)
 - [Dlib C++ Library](http://dlib.net/) -Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. 
 - [socketIO](https://python-socketio.readthedocs.io/en/latest/)
+- [OpenCV](https://docs.opencv.org/trunk/index.html)
 
 
 ## 友情链接
