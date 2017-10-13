@@ -38,3 +38,18 @@ group: navigation
 - [Digital Asset Research](https://www.digitalassetresearch.com/)
 
 
+## 写在最后
+
+没来得及学习前端技术，所以写在这里...
+
+*虽然我主业不是区块链，但是我认为这个技术非常有前景，也想业余时间持续研究下去。*
+
+近期准备重新仔细研究《Bitcoin and CryptoCurrency Technology》中的三个Assignments，当时做抄的答案，没有真懂。还有会继续关注课程论坛和数字货币论坛。
+
+关于投资，我应该会持续跟进。我主要看好金融和身份认证的业务，近期也会玩玩相关应用。不排除研究很有技术含量额东西，一直追新闻是意义不大的。
+
+对技术和投资有兴趣的朋友可以留言或者邮件联系。
+
+
+
+
