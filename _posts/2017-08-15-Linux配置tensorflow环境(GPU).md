@@ -46,6 +46,16 @@ tag: [configuration]
 
 安装驱动的流程为：进入命令行终端(文字模式:Ctrl + ALt + F1)--->禁用lightdm(sudo service lightdm stop)---->安装驱动---->启动lightdm(sudo service lightdm start)--->重启
 
+
+
+### 疑难杂症
+
+经常出现在**apt-get update后，nvidia-smi失效的问题**,这个时候需要重新安装....
+
+解决方式 : 
+1. 检查*是否已经禁用nouveau驱动*
+2. **手动安装Nvidia驱动**
+
 ### 棘手问题:安装好驱动后循环登录
 
 解决的方案是在安装驱动(注意参数)时，执行 sudo ./NVIDIA-Linux-x86_64-375.20.run -no-x-check -no-nouveau-check -no-opengl-files 
@@ -163,6 +173,7 @@ Tensorflow: https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1
 + [tensorflow官网指导安装Ubuntu环境](https://www.tensorflow.org/install/install_linux)
 + [cudnn无法调用问题解决](https://github.com/tensorflow/tensorflow/issues/7522)
 + [MNIST数据集排行榜](https://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#4d4e495354)
++ [禁用nouveau驱动参考](http://blog.csdn.net/10km/article/details/61191230)
 
 
 
