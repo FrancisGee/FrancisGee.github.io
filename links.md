@@ -33,6 +33,9 @@ group: navigation
 - [田渊栋-FAIR](http://yuandong-tian.com/)　--*青年才俊*
 - [何宜晖](http://yihui-he.github.io/)--*青年才俊*
 - [Denny Britz](http://www.wildml.com/about/)　--*青年才俊*
+- [Tianqi Chen](https://homes.cs.washington.edu/~tqchen/)--*青年才俊*
+- [Yangqing Jia](http://daggerfs.com/)--*青年才俊*
+- [Liang-Chieh (Jay) Chen](http://liangchiehchen.com/) --*青年才俊*
 - [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/)　--*业界大佬*
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) ---*业界大佬*
 - [Andrew Ng](http://www.andrewng.org) --*业界大佬*
@@ -48,6 +51,7 @@ group: navigation
 
 ## 博客(for fun)
 
+- [inFERENCe](http://www.inference.vc/)
 - [Hacker News](https://news.ycombinator.com/newest)
 - [Quora](https://www.quora.com/profile/Yann-LeCun)
 - [V神](https://about.me/vitalik_buterin)
@@ -58,6 +62,7 @@ group: navigation
 - [王垠](http://www.yinwang.org/)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [董的博客](http://dongxicheng.org/)
+- [Meet Laci!](http://www.lacigreen.tv/about)
 
 
 ## 论文 && 会议
