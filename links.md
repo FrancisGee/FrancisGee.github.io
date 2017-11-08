@@ -51,6 +51,8 @@ group: navigation
 
 ## 博客(for fun)
 
+
+- [左耳朵耗子](https://coolshell.cn/)
 - [inFERENCe](http://www.inference.vc/)
 - [Hacker News](https://news.ycombinator.com/newest)
 - [Quora](https://www.quora.com/profile/Yann-LeCun)
@@ -59,9 +61,7 @@ group: navigation
 - [Chip Huyen-List100](https://huyenchip.com/list-100/)
 - [Blog-Yong Yuan](http://yongyuan.name/blog/)
 - [王辉的博客--更新比较频繁](http://hui-wang.info/)
-- [王垠](http://www.yinwang.org/)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
-- [董的博客](http://dongxicheng.org/)
 - [Meet Laci!](http://www.lacigreen.tv/about)
 
 
@@ -78,11 +78,8 @@ group: navigation
 
 ## 每日必看
 
-- [Apollo](http://apollo.auto/)
 - [Learn to Code by Competitive Programming](http://blog.hackerearth.com/2013/09/competitive-programming-getting-started_11.html)
 - [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
-- [机器之心](http://www.jiqizhixin.com/)
-- [泡泡机器人](http://www.slamcn.org/index.php/%E9%A6%96%E9%A1%B5)
 - [机器学习之特征工程](http://www.csuldw.com/2015/10/24/2015-10-24%20feature%20engineering/)
 - [Debug的基本步骤](http://www.jiuzhang.com/qa/3815/)
 - [结构化你的工程](http://pythonguidecn.readthedocs.io/zh/latest/writing/structure.html)
