@@ -13,6 +13,7 @@ group: navigation
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 - [Cryptocurrency](https://www.coursera.org/learn/cryptocurrency)
 - [Algorithms](https://www.coursera.org/learn/algorithms-part1/home/welcome)
+- [fast.ai](http://www.fast.ai/)
 
 
 ## 科研动态
