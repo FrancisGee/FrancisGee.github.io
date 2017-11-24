@@ -12,6 +12,28 @@
 
 
   <body>
+  
+    <!-- HTML elements for search -->
+    <div id="search-container">
+      <input type="text" id="search-input" placeholder="search...">
+      <ul id="results-container"></ul>
+    </div>
+
+    <!-- script pointing to jekyll-search.js -->
+<!--    <script src="{{ site.baseurl }}/simple-jekyll-search.min.js"></script>-->
+
+    <script src="https://unpkg.com/simple-jekyll-search@1.1.6/dest/jekyll-search.min.js"></script>
+    
+    <script>
+    SimpleJekyllSearch({
+        search-input: document.querySelector('.search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><a href="{{ site.url }}{url}">{title}</a></li>'
+    })
+    </script>
+  
+  
 
 
                 
