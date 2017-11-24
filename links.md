@@ -14,6 +14,9 @@ group: navigation
 - [Cryptocurrency](https://www.coursera.org/learn/cryptocurrency)
 - [Algorithms](https://www.coursera.org/learn/algorithms-part1/home/welcome)
 - [fast.ai](http://www.fast.ai/)
+- [Learn to Code by Competitive Programming](http://blog.hackerearth.com/2013/09/competitive-programming-getting-started_11.html)
+- [机器学习之特征工程](http://www.csuldw.com/2015/10/24/2015-10-24%20feature%20engineering/)
+- [结构化你的工程](http://pythonguidecn.readthedocs.io/zh/latest/writing/structure.html)
 
 
 ## 科研动态
@@ -37,6 +40,7 @@ group: navigation
 - [Tianqi Chen](https://homes.cs.washington.edu/~tqchen/)--*青年才俊*
 - [Yangqing Jia](http://daggerfs.com/)--*青年才俊*
 - [Liang-Chieh (Jay) Chen](http://liangchiehchen.com/) --*青年才俊*
+- [Jianping Shi -SenseTime](http://shijianping.me/) --*青年才俊*
 - [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/)　--*业界大佬*
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html) ---*业界大佬*
 - [Andrew Ng](http://www.andrewng.org) --*业界大佬*
@@ -53,16 +57,12 @@ group: navigation
 ## 博客(for fun)
 
 
-- [左耳朵耗子](https://coolshell.cn/)
 - [inFERENCe](http://www.inference.vc/)
 - [Hacker News](https://news.ycombinator.com/newest)
 - [Quora](https://www.quora.com/profile/Yann-LeCun)
-- [V神](https://about.me/vitalik_buterin)
 - [IMDb](http://www.imdb.com/)
 - [Chip Huyen-List100](https://huyenchip.com/list-100/)
 - [Blog-Yong Yuan](http://yongyuan.name/blog/)
-- [王辉的博客--更新比较频繁](http://hui-wang.info/)
-- [阮一峰](http://www.ruanyifeng.com/blog/)
 - [Meet Laci!](http://www.lacigreen.tv/about)
 
 
@@ -79,11 +79,9 @@ group: navigation
 
 ## 每日必看
 
-- [Learn to Code by Competitive Programming](http://blog.hackerearth.com/2013/09/competitive-programming-getting-started_11.html)
-- [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
-- [机器学习之特征工程](http://www.csuldw.com/2015/10/24/2015-10-24%20feature%20engineering/)
-- [Debug的基本步骤](http://www.jiuzhang.com/qa/3815/)
-- [结构化你的工程](http://pythonguidecn.readthedocs.io/zh/latest/writing/structure.html)
+
+- [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+- [Pytorch Semantic Segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation)
 - [Marcos Nieto's Blog--项目相关](https://marcosnietoblog.wordpress.com/2016/07/27/real-time-vehicle-detection-and-lane-detection-for-adas/)
 
 
@@ -103,10 +101,11 @@ group: navigation
 
 
 
-
-
 ## 一些工具
 
+
+- [Debug的基本步骤](http://www.jiuzhang.com/qa/3815/)
+- [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
 - [Floydhub Dataset](https://www.floydhub.com/floydhub/datasets)
 - [国际会议等级查询](http://10.3.200.202/cache/5/03/tsinghua.edu.cn/8f7d8dc27e278222807012c0f424364f/international%20conference%202013.pdf)
 - [Latex 公式参考](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
@@ -141,10 +140,7 @@ group: navigation
 
 ## 友情链接
 
-
-- [某位值得关注ACM玩家](http://www.ctzsm.com/about-me/)
 - [值得学习的前辈-Backyard of LixinZhang](http://lixinzhang.github.io/)
-- [SO上值得学习的大牛](http://stackexchange.com/users/8372/claudiu?tab=accounts)
 - [Shunshun](http://yangshun.win/)
 
 
