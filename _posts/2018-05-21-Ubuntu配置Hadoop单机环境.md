@@ -62,8 +62,9 @@ export CLASSPATH=$($HADOOP_INSTALL/bin/hadoop classpath):$CLASSPATH
 
 在如下地方添加:
 
-# The java implementation to use.
-#export JAVA_HOME=${JAVA_HOME}
+**#The java implementation to use.**
+**#export JAVA_HOME=${JAVA_HOME}**
+
 export JAVA_HOME=/usr/java/jdk1.8.0_171
 export HADOOP=/usr/local/hadoop  
 export PATH=$PATH:/usr/local/hadoop/bin  
