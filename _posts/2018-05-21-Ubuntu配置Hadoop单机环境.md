@@ -2,7 +2,7 @@
 
 layout: post
 title: Ubuntu配置Hadoop(单机版)
-date: 2017-10-12
+date: 2018-05-21
 tag: [configuration]
 
 ---
